@@ -1,0 +1,7 @@
+1.) git diff --> This command shows the differences between the commited version and the modified version of a file.
+2). git show <commit hash id> --> This command shows what went into it.
+3). git restore <file name> --> This command undo the changes
+4). git restore --staged <file name> --> This command removes the "modified" file from the staging area
+5). git add . --> This command adds every file in the current directory to the staging area.
+6). git add -A --> This command add every file inside or outside of the current directory to the staging area.
+7). git commit --amend -m <"Your message"> --> This command ammends/Changes the message of your latest commit.
